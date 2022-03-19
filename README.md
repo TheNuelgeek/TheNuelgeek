@@ -18,6 +18,6 @@ You can click the Preview link to take a look at your changes.
 
 [![THeNuelgeek Streak](https://github-readme-streak-stats.herokuapp.com/?user=THeNuelgeek&theme=dracula)](https://git.io/streak-stats)
 
-[<img src='https://res.cloudinary.com/letech-digital-solutions/image/upload/c_scale,w_32/v1643757205/gmail_sqb5rq.png' title='Email Me!'>](mailto://thenuelgeekmain@gmail.com)
+[<img src='https://res.cloudinary.com/letech-digital-solutions/image/upload/c_scale,w_32/v1643757205/gmail_sqb5rq.png' title='Email Me!'>](https://thenuelgeekmain@gmail.com)
 [<img src='https://res.cloudinary.com/letech-digital-solutions/image/upload/c_scale,w_32/v1643581958/5296516_tweet_twitter_twitter_logo_icon_bge2m4.png' title='DM Me!'>](https://twitter.com/theNuelgeek)
 [<img src='https://res.cloudinary.com/letech-digital-solutions/image/upload/c_scale,w_32/v1643581958/5296501_linkedin_network_linkedin_logo_icon_pi6n4y.png' title='Message Me!'>](https://www.linkedin.com/in/nuel-geek-1a2975200/)
