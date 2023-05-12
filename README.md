@@ -1,7 +1,7 @@
 ## Hi there
 
-- 👋 My name is Nuelgeek, I'm a Solidity Smart Contract Developer
-- 🔭 I’m currently working on Interesting things
+- 👋 My name is Nuelgeek, I'm a Frontend (+web3) & Solidity Smart Contract Developer
+- 🔭 I’m currently working on Target Store
 - 🌱 I’m currently learning a lot of interesting things
 - 👯 I’m looking to collaborate on all sort of interesting things
 - 💬 Ask me about most interesting things
