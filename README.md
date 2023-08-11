@@ -1,6 +1,6 @@
 ## Hi there
 
-- 👋 My name is Nuelgeek, I'm a Frontend (+web3) & Solidity Smart Contract Developer
+- 👋 My name is Nuelgeek, I'm a Senior Techincal Project Manger & Software Engineer
 - 🔭 I’m currently working on Target Store
 - 🌱 I’m currently learning a lot of interesting things
 - 👯 I’m looking to collaborate on all sort of interesting things
