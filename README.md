@@ -1,7 +1,7 @@
 ## Hi there
 
 - 👋 My name is Nuelgeek, I'm a Product Manager, Senior Techincal Project Manger & Software Engineer
-- 🔭 I’m currently working on usedora.com
+- 🔭 I’m currently working on [usedora.com](https://usedora.com)
 - 🌱 I’m currently learning a lot of interesting things (E.g B2B Marketing)
 - 👯 I’m looking to collaborate on all sort of interesting things
 - 💬 Ask me about most interesting things
